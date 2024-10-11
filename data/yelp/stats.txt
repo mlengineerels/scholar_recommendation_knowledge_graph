@@ -1,0 +1,2 @@
+numentity: 8720
+numrelations: 34
