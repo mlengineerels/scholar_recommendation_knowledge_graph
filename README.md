@@ -40,5 +40,5 @@ This project improved link prediction accuracy by **10%** over baseline models, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/scholar-recommendation-pipeline.git
+   git clone https://github.com/mlengineerels/scholar_recommendation_knowledge_graph.git
    cd scholar-recommendation-pipeline
